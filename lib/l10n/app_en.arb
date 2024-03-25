@@ -1,0 +1,23 @@
+{
+  "appTitle" : "Islami",
+  "quran" : "Quran",
+  "hadeth" : "Hadeth",
+  "sebha" : "Sebha",
+  "radio" : "Radio",
+  "suraName" : "Sura Name",
+  "numberAyat" : "Number of Ayat",
+  "hadethName" : "ahadeth",
+  "settings" : "Settings",
+  "language" : "Language",
+  "english" : "English",
+  "arabic" : "Arabic",
+  "theme" : "Theme",
+  "lightMood" : "Light",
+  "darkMood" : "Dark",
+  "systemMood" : "System Mode",
+  "on" : "On",
+  "off" : "Off",
+  "quranTranslate" : "Quran Translate",
+  "addZekr" : "Add Zekr",
+  "removeZekr" : "Delete Zekr"
+}

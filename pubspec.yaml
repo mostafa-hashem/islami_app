@@ -1,0 +1,49 @@
+name: islami
+description: islami Flutter App project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.3
+  quran: ^1.2.2
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  provider: ^6.0.5
+  shared_preferences: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.2.19
+flutter_native_splash:
+  image: assets/images/light_splash.png
+  background_image: assets/images/light_splash_bg.png
+  image_dark: assets/images/dark_splash.png
+  background_image_dark: assets/images/dark_splash_bg.png
+  android_gravity: fill
+  ios_content_mode: scaleAspectFill
+  android: true
+  ios: true
+
+flutter:
+  generate: true
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/files/hadeth/
+

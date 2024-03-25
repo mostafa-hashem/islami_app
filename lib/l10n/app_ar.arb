@@ -1,0 +1,24 @@
+{
+  "appTitle" : "إسلامي",
+  "quran" : "قرآن",
+  "hadeth" : "الأحديث",
+  "sebha" : "سبحة",
+  "radio" : "إذاعة",
+  "suraName" : "إسم السورة",
+  "numberAyat" : "عدد الآيات",
+  "hadethName" : "أحاديث",
+  "settings" : "إعدادات",
+  "language" : "اللغة",
+  "english" : "الانجليزية",
+  "arabic" : "العربية",
+  "theme" : "المظهر",
+  "lightMood" : "فاتح",
+  "darkMood" : "داكن",
+  "systemMood" : "استخدام إعدادات النظام",
+  "on" : "قيد التشغيل",
+  "off" : "متوقف",
+  "quranTranslate" : "ترجمة الآيات",
+  "addZekr" : "إضافة ذكر",
+  "removeZekr" : "حذف الذكر"
+
+}
